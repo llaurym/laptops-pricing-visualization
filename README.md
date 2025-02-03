@@ -4,7 +4,7 @@ Analyzes 991 laptops to understand how GPU type, secondary storage, and screen r
 
 ![Demo Preview](resolution_grade_barplot.png)
 
-## 📌 Project Overview
+##  Project Overview
 This project explores key factors influencing the price of laptops by analyzing various technical specifications and how they correlate with price differences. The goal is to uncover patterns and relationships that can:
 - Help consumers make informed purchasing decisions.
 - Provide insights for manufacturers on pricing strategies.
