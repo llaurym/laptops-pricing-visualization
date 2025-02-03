@@ -1,4 +1,4 @@
-# Laptops Data Analysis 💻📈  
+# Laptop Pricing Analysis & Visualization 💻📈  
 
 Analyzes 991 laptops to understand how GPU type, secondary storage, and screen resolution impact pricing. Provides insights for consumers and manufacturers.
 
